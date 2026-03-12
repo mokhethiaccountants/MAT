@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mokhethi Accountants & Trading</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { font-family: Arial; margin:0; background:#f4f4f4; }
+header { background:#0d2c54; color:white; padding:30px; text-align:center; }
+nav { background:#333; padding:15px; text-align:center; }
+nav a { color:white; margin:15px; text-decoration:none; font-weight:bold; }
+section { padding:50px; }
+.container { max-width:1000px; margin:auto; }
+.services, .box { background:white; padding:20px; margin:15px 0; border-radius:8px; box-shadow:0 2px 5px rgba(0,0,0,0.1); }
+.cta { background:#0d2c54; color:white; text-align:center; padding:40px; }
+footer { background:#222; color:white; text-align:center; padding:20px; }
+button { background:#0d2c54; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer; }
+input, select, textarea { width:100%; padding:10px; margin:5px 0 15px 0; border:1px solid #ccc; border-radius:5px; }
+.whatsapp { position:fixed; bottom:20px; right:20px; background:#25D366; color:white; padding:15px 20px; border-radius:30px; text-decoration:none; font-weight:bold; }
+iframe { border-radius:8px; }
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Mokhethi Accountants & Trading</h1>
+<p>Professional Financial, Tax & Credit Advisory Services</p>
+<img src="logo.png" width="120">
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#services">Services</a>
+<a href="#agents">Agents</a>
+<a href="#application">Client Request</a>
+<a href="#credit-check">Credit Check</a>
+<a href="#documents">Upload Docs</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<!-- About Section -->
+<section id="about">
+<div class="container">
+<h2>About Us</h2>
+<p>Mokhethi Accountants & Trading provides professional assistance to individuals and businesses nationwide.</p>
+<p>We specialize in tax services, credit profile restoration, business registration, bookkeeping, and financial guidance.</p>
+<p><b>Mokhethi Motsumi</b> is a Registered Tax Practitioner committed to helping clients restore financial stability.</p>
+</div>
+</section>
+
+<!-- Services Section -->
+<section id="services">
+<div class="container">
+<h2>Our Services</h2>
+<div class="services"><h3>CIPC Company Registration</h3><p>Company registration, amendments, and annual return submissions.</p></div>
+<div class="services"><h3>Bookkeeping Services</h3><p>Professional bookkeeping and financial records management for businesses.</p></div>
+<div class="services"><h3>SARS Tax Services</h3><p>Tax return submissions, tax clearance certificates, and compliance guidance.</p></div>
+<div class="services"><h3>Credit Profile Analysis</h3><p>We review and analyze your credit report to identify issues affecting your credit score.</p></div>
+<div class="services"><h3>Debt Review Exit Guidance</h3><p>Professional guidance for clients seeking to exit debt review.</p></div>
+<div class="services"><h3>Credit Rehabilitation</h3><p>Helping clients restore their credit profile and regain financial stability.</p></div>
+</div>
+</section>
+
+<!-- Agent Opportunities Section -->
+<section id="agents">
+<div class="container">
+<h2>Agent Opportunities</h2>
+<p>We are recruiting agents nationwide to help clients access our services and earn commissions.</p>
+<p><b>Work remotely and earn commission.</b></p>
+
+<div class="box">
+<h3>Agent Registration Form</h3>
+<p>Click below to submit your agent application (submissions go directly to our Google Sheet):</p>
+<a href="https://forms.gle/YOUR_AGENT_FORM_ID" target="_blank"><button>Apply as Agent</button></a>
+</div>
+
+<div class="box">
+<h3>Agent Resources</h3>
+<p>Download marketing materials, pamphlets, and contracts (controlled by Mokhethi Accountants & Trading).</p>
+<button>Download Pamphlets</button>
+</div>
+
+<div class="box">
+<h3>Commission Info</h3>
+<p>Commissions are tracked per client submission. UIF/provident deductions apply as per agent contract.</p>
+</div>
+</div>
+</section>
+
+<!-- Client Service Request Section -->
+<section id="application">
+<div class="container">
+<h2>Request Our Services</h2>
+<p>Submit your request online (submissions go directly to our Google Sheet):</p>
+<a href="https://forms.gle/YOUR_CLIENT_FORM_ID" target="_blank"><button>Submit Request</button></a>
+</div>
+</section>
+
+<!-- Credit Check Section -->
+<section id="credit-check">
+<div class="container">
+<h2>Request Credit Profile Check</h2>
+<p>Submit your credit check request online (submissions go directly to our Google Sheet):</p>
+<a href="https://forms.gle/YOUR_CREDIT_FORM_ID" target="_blank"><button>Submit Credit Check</button></a>
+</div>
+</section>
+
+<!-- Document Upload Section -->
+<section id="documents">
+<div class="container">
+<h2>Upload Supporting Documents</h2>
+<p>Upload ID, payslip, retrenchment letters, and other documents securely via Google Form:</p>
+<a href="https://forms.gle/YOUR_DOCS_FORM_ID" target="_blank"><button>Upload Documents</button></a>
+</div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+<div class="container">
+<h2>Contact Us</h2>
+<p><b>Office Addresses:</b></p>
+<p>83 Mahlatsi Street, Phomolong Location, Hennenman</p>
+<p>15410 Snake Park, Maokeng Location, Kroonstad</p>
+<p><b>Phone:</b> 067 786 2210</p>
+<iframe src="https://maps.google.com/maps?q=83%20Mahlatsi%20Street%20Hennenman&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="300"></iframe>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Mokhethi Accountants & Trading</p>
+</footer>
+
+<a class="whatsapp" href="https://wa.me/27677862210" target="_blank">WhatsApp Us</a>
+
+</body>
+</html>
